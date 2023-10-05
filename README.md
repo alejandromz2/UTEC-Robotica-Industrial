@@ -9,7 +9,7 @@ En este portafolio se compartiran los códigos de los laboratorios del curso Rob
 
 # Instalación
 Descarga estos archivos como un zip usando el boton verde, o clona el repositorio en tu máquina usando Git. 
-Los programas tienen el formato .rvwx y requieren de los programas de Robotino View y Robotino SIM Demo, los cuales pueden ser descargados en https://ip.festo-didactic.com/InfoPortal/Robotino/Overview/EN/index.html. 
+Los programas tienen el formato .rvwx y requieren de los programas de Robotino View y Robotino SIM Demo, los cuales pueden ser descargados en: https://ip.festo-didactic.com/InfoPortal/Robotino/Overview/EN/index.html. 
 
 # Información Adicional
 Si tienes dudas sobre algún tema en especifico referente a este laboratorio escribeme a alejandrozevallos.218@gmail.com. 
